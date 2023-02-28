@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**azolli/azolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alessandro Zolli, and I've been programming since I had 9 years old. Today I'm studying at Politecnico di Torino.
 
-Here are some ideas to get you started:
+Programming languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Rust
+- C/C++
+- Python
+- Javascript
+
+I use these technologies:
+
+Web frameworks
+
+- NodeJS
+- React
+- NextJS
+- SvelteKit
+- Django
+
+Embedded AI
+
+- Qt
+- OpenCV
+- Arduino
