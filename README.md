@@ -19,7 +19,7 @@ Web frameworks
 - SvelteKit
 - Django
 
-Embedded AI
+Embedded/AI
 
 - Qt
 - OpenCV
